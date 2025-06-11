@@ -7,7 +7,7 @@ The [Buf CLI](https://buf.build/product/cli) enables building and management of 
 
 ```json
 "features": {
-    "ghcr.io/marcozac/devcontainer-features/buf:1": {}
+    "ghcr.io/tvangeluwe-paradox/devcontainer-features/buf:1": {}
 }
 ```
 
@@ -26,4 +26,4 @@ The [Buf CLI](https://buf.build/product/cli) enables building and management of 
 
 ---
 
-_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/marcozac/devcontainer-features/blob/main/src/buf/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
+_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/tvangeluwe-paradox/devcontainer-features/blob/main/src/buf/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
