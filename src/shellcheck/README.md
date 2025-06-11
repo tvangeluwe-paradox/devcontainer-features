@@ -7,7 +7,7 @@
 
 ```json
 "features": {
-    "ghcr.io/marcozac/devcontainer-features/shellcheck:1": {}
+    "ghcr.io/tvangeluwe-paradox/devcontainer-features/shellcheck:1": {}
 }
 ```
 
@@ -24,4 +24,4 @@
 
 ---
 
-_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/marcozac/devcontainer-features/blob/main/src/shellcheck/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
+_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/tvangeluwe-paradox/devcontainer-features/blob/main/src/shellcheck/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._

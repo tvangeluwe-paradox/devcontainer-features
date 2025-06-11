@@ -7,7 +7,7 @@
 
 ```json
 "features": {
-    "ghcr.io/marcozac/devcontainer-features/goreleaser:1": {}
+    "ghcr.io/tvangeluwe-paradox/devcontainer-features/goreleaser:1": {}
 }
 ```
 
@@ -24,4 +24,4 @@
 
 ---
 
-_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/marcozac/devcontainer-features/blob/main/src/goreleaser/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
+_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/tvangeluwe-paradox/devcontainer-features/blob/main/src/goreleaser/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
