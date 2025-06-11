@@ -7,7 +7,7 @@
 
 ```json
 "features": {
-    "ghcr.io/marcozac/devcontainer-features/atlas:1": {}
+    "ghcr.io/tvangeluwe-paradox/devcontainer-features/atlas:1": {}
 }
 ```
 
@@ -39,4 +39,4 @@ If `go` is neither in the `PATH` nor `/usr/local/go/bin/go`, it is installed fro
 
 ---
 
-_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/marcozac/devcontainer-features/blob/main/src/atlas/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
+_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/tvangeluwe-paradox/devcontainer-features/blob/main/src/atlas/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
